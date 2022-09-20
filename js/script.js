@@ -1,3 +1,13 @@
+// let num = 7;
+// let i = num;
+// let emptyArr = [];
+//  {
+// emptyArr.push(i);
+
+// }
+// document.write(emptyArr);
+
+
 var btn = document.getElementById("btn");
 var emptyArr = [];
 
